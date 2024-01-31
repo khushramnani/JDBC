@@ -248,10 +248,3 @@ public class showTable {
 }
 
 ```
-  
-## Getting Started
-
-1. Ensure you have Java installed.
-2. Include the Oracle JDBC driver in your project.
-3. Explore the code snippets to understand JDBC connections and CRUD operations.
-
